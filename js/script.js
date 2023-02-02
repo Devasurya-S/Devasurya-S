@@ -13,7 +13,7 @@ function layoutHandler() {
 	var desktopStyleTwo = "styles/Desktop/style.css";
 
 
-	if(window.innerWidth < 600){
+	if(window.innerWidth < 800){
 
 		styleLinkOne.setAttribute("href", mobileStyleOne);
         styleLinkTwo.setAttribute("href", mobileStyleTwo);
