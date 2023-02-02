@@ -1,0 +1,20 @@
+.contactPara{
+    font-weight: 500;
+    line-height: 28px;
+    margin-bottom: 2rem;
+    width: 320;
+    height: 190;
+    text-align:start;
+}
+
+.pTag {
+    text-align: center;
+    font-size: 20px;
+}
+
+.linkHolderMain{
+    font-size: 32px;
+    font-weight: 550;
+    text-decoration: underline;
+    text-align: center;
+}

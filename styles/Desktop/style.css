@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F5EED0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.topMargin {
+    margin-top: 4rem;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.greenBar{
+    background-color: #177369;
+    height: 0.75rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 4rem;
+    margin-bottom: 0;
+}
+
+.logo {
+    font-size: 1.375rem;
+}
+
+nav {    
+    font-size: 1.375rem;
+}
+
+.breaker {
+    display: none;
+}
+
+.introTitle {
+    text-align: center;
+}
+
+section {
+    margin: 0 4rem;
+}
+
+footer{
+    margin: 0 4rem;
+}
+
+.workLinkHolder {
+    text-align: center;
+}
+
+.emailHolder{
+    font-size: 6rem;
+    margin-top: 1rem;
+}
+
+.contactHolder p {
+    font-size: 1.8rem;
+    padding-left: 0.5rem;
+}
+
+.credits {
+    margin-bottom: 4rem;
+}
+
+.credits div {
+    display: inline;
+}
+
+.linkHolder {
+    float: right;
+}
