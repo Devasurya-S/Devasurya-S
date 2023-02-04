@@ -39,6 +39,12 @@ nav {
     font-size: 1.375rem;
 }
 
+.introHeader {
+    font-size: 5.5rem;
+    font-weight: 600;
+    line-height: 1;
+}
+
 .breaker {
     display: none;
 }
@@ -79,4 +85,13 @@ footer{
 
 .linkHolder {
     float: right;
+}
+
+.para {
+    font-size: 21px;
+    font-weight: 100;
+    width: 40%;
+    padding-left: 8rem;
+    padding-bottom: 2rem;
+    line-height: 1.3;
 }

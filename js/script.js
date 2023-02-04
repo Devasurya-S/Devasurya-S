@@ -49,6 +49,7 @@ function layoutHandler() {
 	}   else {	
 
             styleLinkOne.setAttribute("href", desktopStyleOne);
+			console.log(desktopStyleOne);
             styleLinkTwo.setAttribute("href", desktopStyleTwo);
 
 	}

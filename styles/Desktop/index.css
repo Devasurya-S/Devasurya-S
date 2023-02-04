@@ -1,9 +1,3 @@
-.introHeader {
-    font-size: 5.5rem;
-    font-weight: 600;
-    line-height: 1;
-}
-
 .profileHolder {
     display: flex;
     height: min-content;
@@ -20,15 +14,6 @@
     font-weight: 600;
     line-height: 1;
     text-align: right;
-}
-
-.aboutMe {
-    font-size: 21px;
-    font-weight: 100;
-    width: 40%;
-    padding-left: 8rem;
-    padding-bottom: 2rem;
-    line-height: 1.3;
 }
 
 .aboutMeLink {
